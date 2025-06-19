@@ -31,10 +31,10 @@ This project implements and compares various Generative AI-based anomaly detecti
 
 ## Results
 
-✅ Generated images from GANs and VAEs on both datasets  
-✅ Latent space visualizations (PCA/t-SNE)  
-✅ Comparative analysis of model performance  
-✅ VAE-based anomaly detection applied to a selected real-world domain
+Generated images from GANs and VAEs on both datasets  
+Latent space visualizations (PCA/t-SNE)  
+Comparative analysis of model performance  
+VAE-based anomaly detection applied to a selected real-world domain
 
 ## Key Features
 
